@@ -9,11 +9,11 @@ def any(iterable):
 
 # 내가 만들었던 코드
 def my_any(elements):
-    for i in elements:
-        if i :
-            return False
-        else:
-            return True
+    # 이 코드에선 빈 자료형인 경우 none을 반환한다
+    if not elements:
+        return False
+    else:
+        return True
 
 my_list_01 = []
 my_list_02 = [1, 2, 3, '4']
