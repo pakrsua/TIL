@@ -2,13 +2,6 @@ list_method = dir(list)
 #리스트 정리
 ##print(list_method) 아래 실행결과
 '''
-'__add__', '__class__', '__class_getitem__', '__contains__', '__delattr__', 
-'__delitem__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', 
-'__getitem__', '__gt__', '__hash__', '__iadd__', '__imul__', '__init__', '__init_subclass__', 
-'__iter__', '__le__', '__len__', '__lt__', '__mul__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', 
-'__repr__', '__reversed__', '__rmul__', '__setattr__', '__setitem__', '__sizeof__', '__str__', '__subclasshook__',
-
-'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
 
 '''
 
@@ -40,7 +33,7 @@ print(my_list.count(1))
 #1
 
 #
-#extend(iterable) 리스트의 뒤에 iterable(순서가 있는)항목을 추가해준다
+#extend(iterable) 리스트의 뒤에 iterable항목을 추가해준다
 my_list.extend(my_list_2)
 print(my_list)
 #[1, 3, 5, 7, 9, 8, 4, 6, 2, 10, 11, 3, 5, 7, 9, 8, 4, 6, 2, 10]
