@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9f917f0b-9a55-46bc-883b-e01a3ecdc42c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APS/list_1_01_bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/APS/list_1_01_bubble_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APS/list_2_03_delta.py" beforeDir="false" afterPath="$PROJECT_DIR$/APS/list_2_03_delta.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +37,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.algorithm_01_binary_search">
-    <configuration name="14681" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tndk4\Desktop\SSAFY\TIL\python\boj\단계별로 풀어보기" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.10871">
+    <configuration name="10871" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,11 +51,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/02_if" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/03_for" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/02_if/14681.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/03_for/10871.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2884" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/02_if" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/03_for" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/02_if/2884.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/03_for/11021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="algorithm_01_binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2438" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/03_for" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APS/algorithm_01_binary_search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/03_for/2438.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_1_01_bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2439" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/03_for" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APS/list_1_01_bubble_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/03_for/2439.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_2_03_delta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2742" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/03_for" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APS/list_2_03_delta.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/03_for/2742.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.algorithm_01_binary_search" />
-        <item itemvalue="Python.list_1_01_bubble_sort" />
-        <item itemvalue="Python.list_2_03_delta" />
-        <item itemvalue="Python.2884" />
-        <item itemvalue="Python.14681" />
+        <item itemvalue="Python.10871" />
+        <item itemvalue="Python.2439" />
+        <item itemvalue="Python.2438" />
+        <item itemvalue="Python.11021" />
+        <item itemvalue="Python.2742" />
       </list>
     </recent_temporary>
   </component>
