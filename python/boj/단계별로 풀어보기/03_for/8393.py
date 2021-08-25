@@ -1,3 +1,5 @@
+# 합
+
 n = int(input())
 add = 0
 
