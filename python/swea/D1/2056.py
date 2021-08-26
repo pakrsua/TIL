@@ -20,7 +20,7 @@ for tc in range(1, T+1):
         if int(day) > 28:
             flag = -1
     else:
-        flag -1
+        flag = -1
 
     if flag == -1:
         print('#{} -1'.format(tc))
