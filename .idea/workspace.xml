@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9f917f0b-9a55-46bc-883b-e01a3ecdc42c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/boj/단계별로 풀어보기/함수/4673.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/boj/단계별로 풀어보기/함수/4673.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/boj/단계별로 풀어보기/함수/4673.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <recent name="C:\Users\tndk4\Desktop\SSAFY\TIL\python\boj\단계별로 풀어보기" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4673">
+  <component name="RunManager" selected="Python.11720">
     <configuration name="1065" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1546" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11720" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/배열" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/07_문자열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/배열/1546.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/07_문자열/11720.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11720" />
         <item itemvalue="Python.4673" />
         <item itemvalue="Python.1065" />
         <item itemvalue="Python.4344" />
         <item itemvalue="Python.8958" />
-        <item itemvalue="Python.1546" />
       </list>
     </recent_temporary>
   </component>
