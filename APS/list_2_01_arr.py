@@ -29,20 +29,5 @@ print(arr3)
 #[[0, 1, 0], [0, 0, 0]]
 #[[0, 1, 0], [0, 1, 0]]
 
-
-# 1. 빈리스트 만들어 넣고 1차리스트 append하기
-
-arr = []
-for _ in range(N):
-    tmp = list(map(int, input().split()))
-    arr.append(tmp)
-
-# 2. 행의 공간을 미리 확보를 해두고 해당 자리를 바꾼다.
-arr = [0] * N
-
-for i in range(N):
-    arr[i] = list(map(int,input().split()))
-
-# 3. 리스트 내포 방식
-# 위에거
-
+print(len(arr)) # 행의 값
+print(len(arr[0])) #열의 값
