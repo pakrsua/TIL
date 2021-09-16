@@ -8,14 +8,16 @@ cnt = 0
 
 for sosu in range(M, N+1):
     sosu_check = 0
-    for i in range(1,sosu+1):
-        if sosu % i == 0:
-            sosu_check += 1
-    if sosu_check == 2:
-        add += sosu
-        cnt += 1
-        if sosu < min:
-            min = sosu
+    if sosu != 1:
+        for i in range(2,sosu):
+            if sosu % i == 0:
+                sosu_check = -1
+                break
+        if sosu_check == 0:
+            add += sosu
+            cnt += 1
+            if sosu < min:
+                min = sosu
 if cnt > 0:
     print(add)
     print(min)
