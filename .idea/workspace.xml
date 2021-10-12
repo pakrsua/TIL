@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9f917f0b-9a55-46bc-883b-e01a3ecdc42c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/boj/단계별로 풀어보기/함수/4673.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/boj/단계별로 풀어보기/함수/4673.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +44,8 @@
       <recent name="C:\Users\tndk4\Desktop\SSAFY\TIL\python\boj\단계별로 풀어보기" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7568">
-    <configuration name="10870" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2178">
+    <configuration name="1012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/재귀" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/24_DFS와BFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/재귀/10870.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/24_DFS와BFS/1012.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2231" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1260" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/11_브루트 포스" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/24_DFS와BFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/11_브루트 포스/2231.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/24_DFS와BFS/1260.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2447" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2178" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/재귀" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/24_DFS와BFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/재귀/2447.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/24_DFS와BFS/2178.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2798" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2606" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/11_브루트 포스" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/24_DFS와BFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/11_브루트 포스/2798.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/24_DFS와BFS/2606.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7568" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4673" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/11_브루트 포스" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/함수" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/11_브루트 포스/7568.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/boj/단계별로 풀어보기/함수/4673.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.7568" />
-        <item itemvalue="Python.2231" />
-        <item itemvalue="Python.2798" />
-        <item itemvalue="Python.2447" />
-        <item itemvalue="Python.10870" />
+        <item itemvalue="Python.2178" />
+        <item itemvalue="Python.1012" />
+        <item itemvalue="Python.2606" />
+        <item itemvalue="Python.1260" />
+        <item itemvalue="Python.4673" />
       </list>
     </recent_temporary>
   </component>
