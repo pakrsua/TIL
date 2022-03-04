@@ -1,2 +1,4 @@
-﻿  boj1459.cpp
+﻿  boj1543.cpp
+C:\Users\tndk4\Desktop\TIL\boj_algorithm\boj_start\boj1543.cpp(15,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tndk4\Desktop\TIL\boj_algorithm\boj_start\boj1543.cpp(18,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   boj_start.vcxproj -> C:\Users\tndk4\Desktop\TIL\boj_algorithm\Debug\boj_start.exe
