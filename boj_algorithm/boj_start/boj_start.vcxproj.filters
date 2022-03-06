@@ -159,7 +159,7 @@
     <ClCompile Include="boj2609.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boj1475.cpp">
+    <ClCompile Include="boj11719.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
